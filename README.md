@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intermediate Javacsript ( React Js ) Developer.<br>#Looking for Front-end Role ( javascript && React Js).<br>
+Intermediate Javacsript ( React Js ) Developer.<br> ( javascript && React Js).<br>
 
 
 ## 🌐 Socials:
